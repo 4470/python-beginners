@@ -234,7 +234,8 @@ On Windows you should also be able to double-click the Python file to run it.
 
 When pressing :kbd:`Enter` now, the file is executed and you see the output 
 as before.  But this time, after Python finished executing all commands from 
-that file it exits back to the system command prompt, instead of going back 
+that file it exits back to the system command prompt, instead of going kbd
+back 
 to the interactive shell.
 
 And now we are all set and can get started with turtle!
